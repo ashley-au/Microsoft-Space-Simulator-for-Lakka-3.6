@@ -7,4 +7,4 @@ Microsoft Space Simulator is a space flight simulator program, based on Microsof
 
 A means of executing Microsoft Space Simulator for DOS (1994) on Lakka.
 
-Assets are here[Microsoft Space Simulator (DOS).zip](https://github.com/ashley-au/Microsoft-Space-Simulator-for-Lakka-3.6/files/7631234/Microsoft.Space.Simulator.DOS.zip)
+Assets are here [Microsoft Space Simulator (DOS).zip](https://github.com/ashley-au/Microsoft-Space-Simulator-for-Lakka-3.6/files/7631234/Microsoft.Space.Simulator.DOS.zip)
